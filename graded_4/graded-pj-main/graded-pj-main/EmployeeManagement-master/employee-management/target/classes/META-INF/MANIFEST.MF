@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: asd
+Build-Jdk: 18.0.1
+Implementation-Title: Employee Management
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.employee.management
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/employee-manag
+ ement/
+Created-By: Maven Integration for Eclipse
+
